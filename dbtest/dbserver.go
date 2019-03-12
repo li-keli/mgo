@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"time"
 
-	mgo "github.com/globalsign/mgo"
+	mgo "github.com/li-keli/mgo"
 	"gopkg.in/tomb.v2"
 )
 

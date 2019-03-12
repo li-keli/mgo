@@ -7,10 +7,10 @@ import (
 	"testing"
 	"time"
 
-	mgo "github.com/globalsign/mgo"
-	"github.com/globalsign/mgo/bson"
-	"github.com/globalsign/mgo/dbtest"
-	"github.com/globalsign/mgo/txn"
+	mgo "github.com/li-keli/mgo"
+	"github.com/li-keli/mgo/bson"
+	"github.com/li-keli/mgo/dbtest"
+	"github.com/li-keli/mgo/txn"
 	. "gopkg.in/check.v1"
 )
 
